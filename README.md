@@ -1,6 +1,6 @@
-# demo1
+# SafeRun
 
-A new Flutter project.
+A app designed for Women. it suggests safer routes for joggers, Track their location and detects anomalies.
 
 ## Getting Started
 
